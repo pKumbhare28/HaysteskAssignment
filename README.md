@@ -10,7 +10,10 @@ A **SwiftUI Shopping App** that mimics the given design:
 ---
 
 ## 📸 Screenshots
-_(Add your app screenshots here)_
+<img width="1125" height="2436" alt="IMG_0729" src="https://github.com/user-attachments/assets/3f804444-7ff6-4ba4-889d-9da21b7252d7" />
+<img width="1125" height="2436" alt="IMG_0730" src="https://github.com/user-attachments/assets/9d6266e6-3f7e-4d6d-9769-3b81a9baff21" />
+<img width="1125" height="2436" alt="IMG_0731" src="https://github.com/user-attachments/assets/f5469912-9d12-404e-a613-7186d0ebdf78" />
+
 
 ---
 
