@@ -1,4 +1,4 @@
-# HaysteskAssignment 🛒
+# Haystek Assesment 🛒
 
 A **SwiftUI Shopping App** that mimics the given design:
 - Custom header, category section, flash sale
