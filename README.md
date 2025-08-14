@@ -22,3 +22,8 @@ A **SwiftUI Shopping App** that mimics the given design:
 1. Clone the repo:
    ```bash
    git clone https://github.com/pKumbhare28/HaysteskAssignment.git
+
+2. Open HaysteskAssignment
+3. run HaysteskAssignment.xcodeproj using xcode
+4. run into device
+5. open HaysteskAssignment app
